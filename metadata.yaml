@@ -1,0 +1,35 @@
+_repo: The-Art-of-Being-Bored-A-Comedy-in-Three-Acts_53334
+_version: 0.0.1
+alternative_title: Le monde où l'on s'ennuie. English
+contributor:
+  translator:
+    agent_name: Clark, Barrett H. (Barrett Harper)
+    alias: Clark, Barrett Harper
+    birthdate: 1890
+    deathdate: 1953
+    gutenberg_agent_id: '7471'
+    url: http://www.gutenberg.org/2009/agents/7471
+creator:
+  author:
+    agent_name: Pailleron, Edouard
+    alias: Pailleron, Édouard Jules Henri
+    birthdate: 1834
+    deathdate: 1899
+    gutenberg_agent_id: '47327'
+    url: http://www.gutenberg.org/2009/agents/47327
+description: ''
+gutenberg_issued: '2016-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama -- Translations into English'
+- !lcsh 'Comedies'
+- GITenberg
+title: 'The Art of Being Bored: A Comedy in Three Acts'
+url: http://www.gutenberg.org/ebooks/53334
